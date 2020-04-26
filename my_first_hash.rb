@@ -1,7 +1,5 @@
 def my_hash
   my_hash = {"sneakers" => "jordans", "laptop" => "macbook"} 
-
-  
 end
 
 
